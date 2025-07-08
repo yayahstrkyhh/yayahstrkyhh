@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Quality Assurance
 --------------------------
 
-I have 6+ month of working experience as a Manual Tester. I am working on SharePoint projects, following agile methodology and creating all required documents. I have actively learned QA operations in a live project maintained Defect tracking sheets, functional docs, or required documents, and prepared test cases. I have basic knowledge of HTML, Python, API Testing, SQL, JMeter, Katalon and Appium. I like to be punctual and efficiently complete my work arranged, scheduled, and managed. I have good Manual Testing knowledge and have worked on different platforms like Android applications, and websites during live implementation.
+I have 1+ years of working experience as a Manual Tester. I am working on SharePoint projects, following agile methodology and creating all required documents. I have actively learned QA operations in a live project maintained Defect tracking sheets, functional docs, or required documents, and prepared test cases. I have basic knowledge of HTML, Python, API Testing, SQL, JMeter, Katalon and Appium. I like to be punctual and efficiently complete my work arranged, scheduled, and managed. I have good Manual Testing knowledge and have worked on different platforms like Android applications, and websites during live implementation.
 
 *   🌍  I'm based in Jakarta
 *   ✉️  You can contact me at [sosmedyayah@gmail.com](mailto:sosmedyayah@gmail.com)
